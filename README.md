@@ -6,4 +6,6 @@ Trabalhos 1 e 2 da disciplina de Circuitos Lógicos(CI1068) pelo curso de Bachar
 - Trabalho 2: São dois circuitos de vetores
 
 
-Ambos os projetos foram feitos utilizando a ferramenta [Digital](https://github.com/hneemann/Digital).
+Ambos os projetos foram feitos utilizando a ferramenta [Digital](https://github.com/hneemann/Digital). 
+
+Período original em que o projeto foi feito: 01/2018
