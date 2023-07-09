@@ -8,4 +8,4 @@ Trabalhos 1 e 2 da disciplina de Circuitos Lógicos(CI1068) pelo curso de Bachar
 
 Ambos os projetos foram feitos utilizando a ferramenta [Digital](https://github.com/hneemann/Digital). 
 
-Período original em que o projeto foi feito: 01/2018
+Período original em que o projeto foi feito: 1° Sem. 2018
